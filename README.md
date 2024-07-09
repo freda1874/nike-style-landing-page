@@ -2,8 +2,11 @@
 # Nike-like Sports Website
 
 This project aims to build a responsive sports website similar to Nike's landing page using Tailwind CSS and React.js. The website showcases various sections including a complex hero section, popular product showcases, about us section, special offers, testimonials, newsletter integration, and a comprehensive footer. It emphasizes the use of Tailwind CSS for efficient styling and React.js for dynamic front-end interactions.
+## Demo
+  Nike Style Landing Page https://nike-style-landing-page.onrender.com/ 
+  ![image](https://github.com/freda1874/nike-style-landing-page/assets/85437054/e43a4a7f-2c8c-4e61-b719-d2a528ec5b64)
 
-## Tech Stack
+## Tech Stack 
 
 - **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
 - **React.js**: A JavaScript library for building user interfaces, allowing for dynamic and interactive components.
